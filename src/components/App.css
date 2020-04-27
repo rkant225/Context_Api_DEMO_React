@@ -1,0 +1,7 @@
+.page-content{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: gray;
+    margin-top: 30px;
+}
